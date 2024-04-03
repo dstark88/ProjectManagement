@@ -10,15 +10,13 @@ const Header = () => {
         >
           Denise Stark
         </a>
-        <nav className="">
-          <a
-            className="text-[20px] hover:text-stone-400"
-            href="https://dstark88.github.io/portfolio/"
-            target="blank"
-          >
-            Portfolio
-          </a>
-        </nav>
+        <a
+          className="text-[20px] hover:text-stone-400"
+          href="https://dstark88.github.io/portfolio/"
+          target="blank"
+        >
+          Portfolio
+        </a>
       </div>
     </header>
   );
